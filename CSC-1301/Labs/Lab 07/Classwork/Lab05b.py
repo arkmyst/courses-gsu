@@ -1,7 +1,7 @@
 """
 Program: CS 1301 Lab 07
 
-Author: Asrar Syed
+Author: AS
 
 Description: This program will read a positive integer and
     find the largest power of two that is less than or equal to it.

@@ -1,5 +1,5 @@
 Script started on Wed 09 Oct 2024 09:56:31 PM EDT
-[asyed23@gsuad.gsu.edu@snowball lab6]$ cat lab6.c
+[as23@gsuad.gsu.edu@snowball lab6]$ cat lab6.c
 /*
   Program: Take user input of 10 and increment based on a random array of 100
 */
@@ -39,11 +39,11 @@ int main() {
 
     return 0;
 }
-[asyed23@gsuad.gsu.edu@snowball lab6]$ gcc -std=c99 lab6.c -o lab6
-[asyed23@gsuad.gsu.edu@snowball lab6]$ ./lab6
+[as23@gsuad.gsu.edu@snowball lab6]$ gcc -std=c99 lab6.c -o lab6
+[as23@gsuad.gsu.edu@snowball lab6]$ ./lab6
 Enter ten integers: 32 56 59 50 54 29 14 63 31 27
 
-Updated array: 44 63 65 57 60 39 21 77 50 39 [asyed23@gsuad.gsu.edu@snowball lab6]$ exit
+Updated array: 44 63 65 57 60 39 21 77 50 39 [as23@gsuad.gsu.edu@snowball lab6]$ exit
 exit
 
 Script done on Wed 09 Oct 2024 09:58:08 PM EDT

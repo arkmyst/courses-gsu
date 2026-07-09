@@ -25,7 +25,7 @@ main proc
 
 	mov cx, val1					; Computing (val1 - val2) in CX register and then subtracting it to DX register
 	sub cx, val2          ; CX = (val1 - val2)
-	
+
 	neg cx							  ; Since minus w/ minus happens it turns into a positive
 	add dx, cx						; The operation changes because of the last line - computing (total of val3 and val4) + (total of val1 and val2)
 

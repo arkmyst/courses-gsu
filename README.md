@@ -31,11 +31,11 @@ This repository functions as a storage hub for the code I write during my comple
 
 ```py
 gsu-code
-┗━ Course # Various GSU courses
+┗━ Course
+   ┣━ Labs
    ┣━ Exams
    ┣━ Homeworks
-   ┣━ Assignments
    ┣━ Projects
-   ┃  ┗━ README.md # Explains the project
-   ┗━ README.md # About the class & personal notes
+   ┃  ┗━ README.md # explains the project
+   ┗━ README.md # about the class & personal notes
 ```

@@ -1,5 +1,5 @@
 Script started on Wed 02 Oct 2024 11:56:07 PM EDT
-[asyed23@gsuad.gsu.edu@snowball lab5]$ cat lab5.c
+[as23@gsuad.gsu.edu@snowball lab5]$ cat lab5.c
 /*
   Program: Print a One-Month Calendar
 */
@@ -38,8 +38,8 @@ int main() {
 
     return 0;
 }
-[asyed23@gsuad.gsu.edu@snowball lab5]$ gcc lab5.c -o lab5
-[asyed23@gsuad.gsu.edu@snowball lab5]$ ./lab5
+[as23@gsuad.gsu.edu@snowball lab5]$ gcc lab5.c -o lab5
+[as23@gsuad.gsu.edu@snowball lab5]$ ./lab5
 Enter number of days in month: 28
 Enter starting day of the week (1=Sun, 7=Sat): 3
 
@@ -50,7 +50,7 @@ Sun Mon Tue Wed Thu Fri Sat
   6   7   8   9  10  11  12
  13  14  15  16  17  18  19
  20  21  22  23  24  25  26
- 27  28 [asyed23@gsuad.gsu.edu@snowball lab5]$ exit
+ 27  28 [as23@gsuad.gsu.edu@snowball lab5]$ exit
 exit
 
 Script done on Wed 02 Oct 2024 11:57:22 PM EDT

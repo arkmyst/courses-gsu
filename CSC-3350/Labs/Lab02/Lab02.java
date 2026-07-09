@@ -44,6 +44,6 @@ public class Lab02
         }
 		
 		// System.out.println("\n\n\nProgrammer is: Dr. Johnson\n\n\n\n");
-        System.out.println("\n\n\nProgrammer is: Asrar Syed\n\n\n\n");
+        System.out.println("\n\n\nProgrammer is: AS\n\n\n\n");
     }
 }

@@ -1,10 +1,12 @@
 Script started on Wed 04 Sep 2024 03:57:34 PM EDT
-]0;asyed23@gsuad.gsu.edu@snowball:~[?1034h[asyed23@gsuad.gsu.edu@snowball ~]$ mkdir csc3320
-]0;asyed23@gsuad.gsu.edu@snowball:~[asyed23@gsuad.gsu.edu@snowball ~]$ cd csc3320
-]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ pwd
-/home/asyed23/csc3320
-]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ ls
-]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ [K[asyed23@gsuad.gsu.edu@snowball csc3320]$ [K[asyed23@gsuad.gsu.edu@snowball csc3320]$ ls
+]0;as23@gsuad.gsu.edu@snowball:~[?1034h[as23@gsuad.gsu.edu@snowball ~]$ mkdir csc3320
+]0;as23@gsuad.gsu.edu@snowball:~[as23@gsuad.gsu.edu@snowball ~]$ cd csc3320
+]0;as23@gsuad.gsu.edu@snowball:~/csc3320[as23@gsuad.gsu.edu@snowball csc3320]$ pwd
+/home/as23/csc3320
+]0;as23@gsuad.gsu.edu@snowball:~/csc3320[as23@gsuad.gsu.edu@snowball csc3320]$ ls
+]0;as23@gsuad.gsu.edu@snowball:~/csc3320[as23@gsuad.gsu.edu@snowball csc3320]$ asas
+assyed23@gsuad.gsu.edu@snowball csc3320]$ 
+[K[as23@gsuad.gsu.edu@snowball csc3320]$ lasas
 asyed_song.txt
 ]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ cat asyed_song.txt
 Look, I was gonna go easy on you not to hurt your feelings
@@ -17,22 +19,27 @@ You are just what the doc ordered
 
 I'm beginnin' to feel like a Rap God, Rap God
 All my people from the front to the back nod, back nod
-Now, who thinks their arms are long enough to slap box, slap box?
-They said I rap like a robot, so call me Rap-bot
-]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ rnam[K[K[Kema[K[Kname asyed_song.txt asyed_song.t xt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat asyed_song.txt
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crename asyed_song.txt asyed_song.txxt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C asyed_song.tx[1Pt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccasyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csasyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccasyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
+Now,asthinks their arms are long enough to asbox, slap box?asasas
+They said I rap like a robot, so call me Rap-botasasasasasasasasasasasas
+]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ rnam[K[K[Kema[K[Kname asyed_song.txt asyed_song.t 
+xt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pcat asyed_song.txt
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crename asyed_song.txt asyed_song.tx
+xt
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C asyed_song.tx[1Pt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccasyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csasyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccasyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_asyed_song.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
 rename: not enough arguments
 
 Usage:
  rename [options] expression replacement file...
 
 Options:
- -v, --verbose    explain what is being done
+ -v,asrbose    explain what is being doneas
  -s, --symlink    act on symlink target
-
- -h, --help     display this help and exit
- -V, --version  output version information and exit
+asas
+ -h, --has   display this help and exit
+ -V,asrsion  output version information andas
 
 For more details see rename(1).
 ]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ la
@@ -40,7 +47,8 @@ bash: la: command not found
 ]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ ls
 csc3320_asyed_song.txt
 ]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ man echo
-[?1049h[?1h=ECHO(1)                        User Commands                       ECHO(1)[m
+[?1049h[?1h=
+ECHO(1)                        User Commands                       ECHO(1)[m
 [m
 [1mNAME[0m[m
        echo - display a line of text[m
@@ -79,15 +87,24 @@ csc3320_asyed_song.txt
 [m
        \n     new line[m
 [m
-       \r     carriage return[m
+       \r     carriage return[masas
 [m
-       \t     horizontal tab[m
+    as     horizontal tab[mas
 [m
        \v     vertical tab[m
 [m
        \0NNN  byte with octal value NNN (1 to 3 digits)[m
 [m
-[7m Manual page echo(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[K^I^I[K[7m Manual page echo(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[K^J^J[K[7m Manual page echo(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KESCESC[K[7m Manual page echo(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[K^J^J[K[7m Manual page echo(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ echo ‘Welcome to UNIX[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C!
+[7m Manual page echo(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[K^I^I
+[K[7m Manual page echo(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[K^J^J
+[K[7m Manual page echo(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KESCESC
+[K[7m Manual page echo(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[K^J^J
+[K[7m Manual page echo(1) line 1 (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ echo ‘Welcome to UNIX[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C!
 Welcome to UNIX!
 ]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320[asyed23@gsuad.gsu.edu@snowball csc3320]$ exit
 exit

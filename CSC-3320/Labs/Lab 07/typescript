@@ -1,7 +1,7 @@
 Script started on Wed 16 Oct 2024 11:18:58 PM EDT
-]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320/labs/lab7[?1034h[asyed23@gsuad.gsu.edu@snowball lab7]$ cat lab7.c
+]0;as23@gsuad.gsu.edu@snowball:~/csc3320/labs/lab7[?1034h[as23@gsuad.gsu.edu@snowball lab7]$ cat lab7.c
 /*
-  Author: Asrar Syed
+  Author: AS
   Program: Create selection_sort method and sort an array and print it out
 */
 
@@ -57,9 +57,9 @@ int main() {
 
     return 0;
 }
-]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320/labs/lab7[asyed23@gsuad.gsu.edu@snowball lab7]$ gcc -std=c99 lab7.c -o lab7
-]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320/labs/lab7[asyed23@gsuad.gsu.edu@snowball lab7]$ 
-]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320/labs/lab7[asyed23@gsuad.gsu.edu@snowball lab7]$ /[K./lab7
+]0;as23@gsuad.gsu.edu@snowball:~/csc3320/labs/lab7[as23@gsuad.gsu.edu@snowball lab7]$ gcc -std=c99 lab7.c -o lab7
+]0;as23@gsuad.gsu.edu@snowball:~/csc3320/labs/lab7[as23@gsuad.gsu.edu@snowball lab7]$ 
+]0;as23@gsuad.gsu.edu@snowball:~/csc3320/labs/lab7[as23@gsuad.gsu.edu@snowball lab7]$ /[K./lab7
 How many integers: 12
 
 Enter 12 elements: 10 3 34 21 13 10 13 9 20 39 45 68
@@ -75,7 +75,7 @@ After the next call: 9 3 10 10
 After the next call: 9 3 10 
 After the next call: 3 9 
 Sorted Array: 3 9 10 10 13 13 20 21 34 39 45 68 
-]0;asyed23@gsuad.gsu.edu@snowball:~/csc3320/labs/lab7[asyed23@gsuad.gsu.edu@snowball lab7]$ exit
+]0;as23@gsuad.gsu.edu@snowball:~/csc3320/labs/lab7[as23@gsuad.gsu.edu@snowball lab7]$ exit
 exit
 
 Script done on Wed 16 Oct 2024 11:20:21 PM EDT

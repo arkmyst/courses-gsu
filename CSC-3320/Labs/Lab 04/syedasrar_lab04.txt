@@ -1,5 +1,5 @@
 Script started on Wed 25 Sep 2024 10:45:55 PM EDT
-[asyed23@gsuad.gsu.edu@snowball lab4]$ cat lab4.c
+[as23@gsuad.gsu.edu@snowball lab4]$ cat lab4.c
 /*
   Program: Temperature Converter
  	   Converts a Celsius temperature to its equivalent Fahrenheit temperature
@@ -16,11 +16,11 @@ int main() {
 
     return 0;
 }
-[asyed23@gsuad.gsu.edu@snowball lab4]$ gcc lab4.c -o lab4
-[asyed23@gsuad.gsu.edu@snowball lab4]$ ./lab4
+[as23@gsuad.gsu.edu@snowball lab4]$ gcc lab4.c -o lab4
+[as23@gsuad.gsu.edu@snowball lab4]$ ./lab4
 Enter Celsius temperature: 100.00
 Equivalent Fahrenheit temperature: 212.00
-[asyed23@gsuad.gsu.edu@snowball lab4]$ exit
+[as23@gsuad.gsu.edu@snowball lab4]$ exit
 exit
 
 Script done on Wed 25 Sep 2024 10:46:28 PM EDT

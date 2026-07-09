@@ -1,5 +1,5 @@
 Script started on Fri 06 Dec 2024 11:40:21 PM EST
-[asyed23@gsuad.gsu.edu@snowball lab13]$ cat lab13.c
+[as23@gsuad.gsu.edu@snowball lab13]$ cat lab13.c
 /*
   Program: Practice File Management and using fork() system call in a C Program
 */
@@ -92,8 +92,8 @@ int main() {
     printf("Parent: DONE. MY PID IS %d. MY PARENT'S PID IS %d.\n", getpid(), getppid());
     return 0;
 }
-[asyed23@gsuad.gsu.edu@snowball lab13]$ gcc lab13.c -o lab13 -std=c99
-[asyed23@gsuad.gsu.edu@snowball lab13]$ ./lab13
+[as23@gsuad.gsu.edu@snowball lab13]$ gcc lab13.c -o lab13 -std=c99
+[as23@gsuad.gsu.edu@snowball lab13]$ ./lab13
 
 Child 1: Sum of even numbers between 1 and 1000 is 250500
 DONE. MY PID IS 27336. MY PARENT'S PID IS 27333.
@@ -107,7 +107,7 @@ DONE. MY PID IS 27338. MY PARENT'S PID IS 27333.
 
 Parent: DONE. MY PID IS 27333. MY PARENT'S PID IS 27254.
 
-[asyed23@gsuad.gsu.edu@snowball lab13]$ exit
+[as23@gsuad.gsu.edu@snowball lab13]$ exit
 exit
 
 Script done on Fri 06 Dec 2024 11:41:09 PM EST

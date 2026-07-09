@@ -1,5 +1,5 @@
-cript started on Wed 30 Oct 2024 11:25:38 PM EDT
-[asyed23@gsuad.gsu.edu@snowball lab9]$ cat lab9.c
+Script started on Wed 30 Oct 2024 11:25:38 PM EDT
+[as23@gsuad.gsu.edu@snowball lab9]$ cat lab9.c
 /*
   Program: A program that finds the “smallest” and “largest” words in a series of words.
 */
@@ -53,8 +53,8 @@ int main() {
 
     return 0;
 }
-[asyed23@gsuad.gsu.edu@snowball lab9]$ gcc lab9.c -o lab9
-[asyed23@gsuad.gsu.edu@snowball lab9]$ ./lab9
+[as23@gsuad.gsu.edu@snowball lab9]$ gcc lab9.c -o lab9
+[as23@gsuad.gsu.edu@snowball lab9]$ ./lab9
 Enter word: dog
 Enter word: zebra
 Enter word: rabbit
@@ -64,7 +64,7 @@ Enter word: cat
 Enter word: fish
 Smallest word: cat
 Largest word: zebra
-[asyed23@gsuad.gsu.edu@snowball lab9]$ exit
+[as23@gsuad.gsu.edu@snowball lab9]$ exit
 exit
 
 Script done on Wed 30 Oct 2024 11:28:10 PM EDT

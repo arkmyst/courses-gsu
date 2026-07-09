@@ -1,5 +1,5 @@
 Script started on Wed 20 Nov 2024 11:16:09 PM EST
-[asyed23@gsuad.gsu.edu@snowball lab12]$ cat lab12.c
+[as23@gsuad.gsu.edu@snowball lab12]$ cat lab12.c
 /*
   Program: Practice File Management in a C program
 */
@@ -82,8 +82,8 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
-[asyed23@gsuad.gsu.edu@snowball lab12]$ gcc -std=c99 lab12.c -o lab12
-[asyed23@gsuad.gsu.edu@snowball lab12]$ ./lab12 DATA.txt
+[as23@gsuad.gsu.edu@snowball lab12]$ gcc -std=c99 lab12.c -o lab12
+[as23@gsuad.gsu.edu@snowball lab12]$ ./lab12 DATA.txt
 32
 33 !
 34 "
@@ -179,7 +179,7 @@ int main(int argc, char *argv[]) {
 124 |
 125 }
 126 ~
-[asyed23@gsuad.gsu.edu@snowball lab12]$ exit
+[as23@gsuad.gsu.edu@snowball lab12]$ exit
 exit
 
 Script done on Wed 20 Nov 2024 11:18:04 PM EST

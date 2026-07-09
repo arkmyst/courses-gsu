@@ -1,5 +1,5 @@
 Script started on Wed 16 Oct 2024 11:18:58 PM EDT
-[asyed23@gsuad.gsu.edu@snowball lab7]$ cat lab7.c
+[as23@gsuad.gsu.edu@snowball lab7]$ cat lab7.c
 /*
   Program: Create selection_sort method and sort an array and print it out
 */
@@ -56,9 +56,9 @@ int main() {
 
     return 0;
 }
-[asyed23@gsuad.gsu.edu@snowball lab7]$ gcc -std=c99 lab7.c -o lab7
-[asyed23@gsuad.gsu.edu@snowball lab7]$
-[asyed23@gsuad.gsu.edu@snowball lab7]$ ./lab7
+[as23@gsuad.gsu.edu@snowball lab7]$ gcc -std=c99 lab7.c -o lab7
+[as23@gsuad.gsu.edu@snowball lab7]$
+[as23@gsuad.gsu.edu@snowball lab7]$ ./lab7
 How many integers: 12
 
 Enter 12 elements: 10 3 34 21 13 10 13 9 20 39 45 68
@@ -74,7 +74,7 @@ After the next call: 9 3 10 10
 After the next call: 9 3 10
 After the next call: 3 9
 Sorted Array: 3 9 10 10 13 13 20 21 34 39 45 68
-[asyed23@gsuad.gsu.edu@snowball lab7]$ exit
+[as23@gsuad.gsu.edu@snowball lab7]$ exit
 exit
 
 Script done on Wed 16 Oct 2024 11:20:21 PM EDT
